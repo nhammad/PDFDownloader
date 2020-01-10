@@ -1,5 +1,10 @@
 **NotesDownloader**
 
+<p align="center">
+  <img src="logo/logo.png" width="350" alt="logo">
+</p>
+
+
 - An innvoative web scrapping solution for students to save time.
 - Instantly download all lecture notes, homeworks, and all necessary pdf files. 
 - Works with all CNDS as well as secure Grader course websites. 
