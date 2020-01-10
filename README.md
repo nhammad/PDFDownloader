@@ -10,8 +10,8 @@
 - Works with all CNDS as well as secure Grader course websites. 
 
 
-###### How to Use:
+**How to Use:** 
 
-All you have to do is run the program locally and enter a course link.
+- All you have to do is run the program locally and enter a course link.
 
-Your files will be downloaded in the same folder from where you run it.
+- Your files will be downloaded in the same folder from where you run it.
