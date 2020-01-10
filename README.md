@@ -1,7 +1,7 @@
 **NotesDownloader**
 
 <p align="center">
-  <img src="logo/logo.png" width="350" alt="logo">
+  <img src="logo/logo.png" width="250" alt="logo">
 </p>
 
 
