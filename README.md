@@ -1,7 +1,7 @@
-**NotesDownloader**
+# NotesDownloader
 
 <p align="center">
-  <img src="logo/logo.png" width="250" alt="logo">
+  <img src="logo/logo.png" width="225" alt="logo">
 </p>
 
 
@@ -9,9 +9,8 @@
 - Instantly download all lecture notes, homeworks, and all necessary pdf files. 
 - Works with all CNDS as well as secure Grader course websites. 
 
-![NotesDownloader](logo/logo.png)
 
-How to Use:
+###### How to Use:
 
 All you have to do is run the program locally and enter a course link.
 
