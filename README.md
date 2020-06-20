@@ -30,8 +30,14 @@ Here's a list of additional modules you might have to download.
 - Your files will be downloaded in the same folder from where you run it.
 
 
-
-Future Work:
+**Future Work:**
 
 - Deploy with Docker?
 - Currently, web pages that end with .html are not correctly parsed. Need to expand the script accordingly. 
+
+**Contribute:**
+
+Feel free to create a pull request if you:
+
+- Have any ideas to improve the code.
+- Can think of more use-cases for different university specifiic wesbites.
