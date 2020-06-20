@@ -9,9 +9,29 @@
 - Instantly download all lecture notes, homeworks, and all necessary pdf files. 
 - Works with all CNDS as well as secure Grader course websites. 
 
+**Libraries:**
+
+Here's a list of additional modules you might have to download.
+
+- BeautifulSoup4-4.9.1
+- lxml-4.5.1 
+- wget 3.2
+- requests 2.22.0
 
 **How to Use:** 
 
-- All you have to do is run the program locally and enter a course link.
+- Download the Python script and run it on your terminal
+
+  ```
+  python3 NotesDownload.py
+  ```
+- Upon getting a prompt, enter your course link.
 
 - Your files will be downloaded in the same folder from where you run it.
+
+
+
+Future Work:
+
+- Deploy with Docker?
+- Currently, web pages that end with .html are not correctly parsed. Need to expand the script accordingly. 
