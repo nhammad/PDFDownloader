@@ -1,7 +1,7 @@
 # PDF Downloader
 
 <p align="center">
-  <img src="logo/logo.png" width="225" alt="logo">
+  <img src="logo/pdfLogo.png" width="225" alt="logo">
 </p>
 
 
