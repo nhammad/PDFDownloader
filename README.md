@@ -22,7 +22,7 @@ Here's a list of additional modules you might have to download.
 - Download the Python script and run it on your terminal
 
   ```
-  python3 NotesDownload.py
+  python3 PdfDownloader.py
   ```
 - Upon getting a prompt, enter your course link.
 
