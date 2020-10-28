@@ -41,3 +41,8 @@ Feel free to create a pull request if you:
 
 - Have any ideas to improve the code.
 - Can think of more use-cases for different university specifiic wesbites.
+
+**Read More:**
+
+[Medium Article](https://medium.com/the-innovation/notesdownloader-use-web-scraping-to-download-all-pdfs-with-python-511ea9f55e48)
+ 
