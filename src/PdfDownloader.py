@@ -47,7 +47,3 @@ def main():
     get_pdfs(my_url)
 
 main()
-
-
-# https://grader.eecs.jacobs-university.de/courses/320241/2019_2
-# https://cnds.jacobs-university.de/courses/os-2019/
