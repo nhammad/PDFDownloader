@@ -44,5 +44,5 @@ Feel free to create a pull request if you:
 
 **Read More:**
 
-[Medium Article](https://medium.com/the-innovation/notesdownloader-use-web-scraping-to-download-all-pdfs-with-python-511ea9f55e48)
+- [Medium Article](https://medium.com/the-innovation/notesdownloader-use-web-scraping-to-download-all-pdfs-with-python-511ea9f55e48)
  
