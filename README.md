@@ -5,8 +5,8 @@
 </p>
 
 - An innvoative web scrapping solution for students to save time.
-- Instantly download all lecture notes, homeworks, and all necessary pdf files. 
-- Works with all CNDS as well as secure Grader course websites. 
+- Instantly download all necessary pdf files including articles, lecture notes, or homework files.
+- Works with all tested course websites. 
 
 **Libraries:**
 
