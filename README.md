@@ -1,4 +1,4 @@
-# NotesDownloader
+# PDFDownloader
 
 <p align="center">
   <img src="logo/logo.png" width="225" alt="logo">
