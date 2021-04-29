@@ -5,8 +5,7 @@
 </p>
 
 - An innvoative web scrapping solution for students to save time.
-- Instantly download all necessary pdf files including articles, lecture notes, or homework files.
-- Works with all tested course websites. 
+- Instantly download all necessary pdf files from a webpage.
 
 **Libraries:**
 
