@@ -4,7 +4,7 @@
   <img src="logo/pdfLogo.png" width="225" alt="logo">
 </p>
 
-- An innvoative web scrapping solution for students to save time.
+- An innvoative web scrapping solution to save time.
 - Instantly download all necessary pdf files from a webpage.
 
 **Libraries:**
